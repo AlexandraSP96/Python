@@ -1,3 +1,4 @@
-Neste ficheiro apresento o meu primeiro contacto com o python. 
-Utilizei a ferramenta do google colab. Fiz comandos básicos e aprendi a interagir com um ficheiro excel.
-Aprendi como ver todas as abas do excel, como escolher uma e ver as colunas, como interagir com os diferentes dados dessa aba e como criar gráficos. 
+Criei este repositório com o propósito de demonstrar o meu interesse em evoluir no Python. 
+Aprendi a utilizar a ferramenta google colab e iniciei com alguns comandos básicos, um simples print(" Olá, Bem-vindo...).
+Seguidamente aprendi como interagir com o excel , como navegar pelas diferentes abas , como escolher uma coluna e analisar os dados nela contidos e como criar gráficos com os mesmos. 
+Foi o ínicio do muito que ainda tenho pela frente. 
